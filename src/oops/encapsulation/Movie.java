@@ -1,6 +1,6 @@
 package oops.encapsulation;
 
-public class Movie {
+public class   Movie {
 	
 	 //encapsulation is data hiding
     private String name;

@@ -6,6 +6,7 @@ public class IfStatement {
 
 	public static void main(String[] args) {
 		
+		
 		//capture user input
 				Scanner sc = new Scanner(System.in);
 				System.out.println("enter a number: ");

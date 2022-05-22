@@ -1,6 +1,6 @@
 package oops.abstraction;
 
-public interface Car {
+public interface  Car {
 	
 	//abstract method
     public void start();
